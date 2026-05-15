@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Salone BrightPath — Landing Page
 
 A simple, responsive **university assignment** landing page for the Digital Public Good (DPG) project **Salone BrightPath** (formerly drafted as “Job Connect”): youth employment **and skill learning** in Sierra Leone, aligned with **SDG 1 — No Poverty**.
@@ -58,3 +59,7 @@ The contact form validates input in the browser only; it **does not send email**
 ---
 
 **Salone BrightPath** — demonstration only, for educational use.
+=======
+# Salone-BrightPath-
+SDG 1 No Poverty 
+>>>>>>> aafc98a0b7c43fea27d06ae1a78ce3fa32c80c48
